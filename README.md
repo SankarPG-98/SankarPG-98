@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm a passionate QA Engineer with interests in Test automation, Performance Testing, App development, and Tech learnings.
 
 - 👯 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: [pgsankar46@gmail.com](mailto:pgsankar46@gmail.com)
+- 📫 How to reach me: [visnusankar98@gmail.com](mailto:visnusankar98@gmail.com)
 - ⚡ Fun fact: I love to travel, act, and do bike riding.
 
 ## Connect with Me
